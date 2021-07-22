@@ -1,0 +1,8 @@
+-
+- Tags #Outline #Offline #Online #Markup/Markdown #Markup/Org-mode #Files/Markdown #Web #Autosync (Only when accessing from the web) #Free #ComplexContent #[[spaced repetition]]
+- Logseq is to #Outline editors what obsidian is to #Doc editors.
+- Extremely easy to get setup. Just go to the website and click on try demo and open a folder on your computer to store your notes
+- Out of all the options logseq meets the most criteria. Most notably it has a web version that allows you to access your notes from any device and supports automatic syncing for free.
+- Quite literally as i was writing this logseq added support for [[spaced repetition]]  cards. Given logseq supports an unlimited number of cards for free it is harder to recommend remnote
+- Its an outline style program just like roam, it supports [[Hierarchical Pages]]
+- For more info on how to setup logseq see here [[Setup logseq]]

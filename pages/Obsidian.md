@@ -1,0 +1,8 @@
+- Tags #Doc #Offline #AutoSync (paid) #Freemium (pay for sync) #Markup/Markdown #Files/Markdown #ComplexContent #Citations (via plugin)
+- Has an extremely strong plugin exosystem to integrate with other tools and expand its feature set. This is ever evolving so i can only say, that at the time of writing there is a lot.
+- Has some support for [[spaced repetition]] via anki as seen here [Here](https://www.youtube.com/watch?v=OqVs1Sw-Ahg&feature=share)
+- Very easy to setup, just download install and go.
+- Obsidian has a pretty strong following, its got a slick user interface, support for [[Backlinks]]. However its markdown rendering leaves something to be desired in my opinion and the note editing experience while good, is certainly not "great".
+- Has support for citations via plugin.
+- You can easily build [[Hierarchical Pages]] and explore your notes by looking at them as files within folders.
+- If i was to recommend a single editor to someone who is put off by the #Outline style obsidian would be it.
