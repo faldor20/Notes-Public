@@ -1,0 +1,3 @@
+- #Online #Web #AutoSync #Markup/Markdown #Colab #Freemium (you can only have so much content, its a large limit but tables can run it out)
+- I think everyone know about notion, its the most famous of the bunch.
+- Very good for collaboration. Probably the best out of all the listed apps. teams, real-time sync all that good stuff

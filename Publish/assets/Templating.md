@@ -1,0 +1,2 @@
+- The ability to create a page form a template with prefilled headings and content
+- Handy for something like  daily journal or book review. you mght have the headings pros, cons, takeaways. already prefilled

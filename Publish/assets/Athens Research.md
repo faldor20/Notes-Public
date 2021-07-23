@@ -1,0 +1,2 @@
+- Tags  #Offline #AutoSync (paid) #Markup/Markdown #Freemium (pay for sync)
+- Proprietary database format. Support markdown export

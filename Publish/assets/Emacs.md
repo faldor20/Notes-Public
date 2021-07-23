@@ -1,0 +1,4 @@
+- #Offline #Free #Citations #ComplexContent #Outline #Doc #Files/Markdown #Markup/Org-mode
+- Emacs killer feature really is being able to use org-mode instead of markdown. org-mode is a more comprehsive markup langauge and it essentially gets you the best of both the outline and doc views. Org-mode has indentation and nesting as well as more free-form long long writing.
+- Org supports, tables, images, latex, [[Literate Programing]], and [[Literate Math]]
+- That said unless you already use Linux and emacs i cannot recommend you try to use it as a note taking tool. It is just to much of a pain to setup just for notes. If you don't already live in that world just pick another option.

@@ -1,0 +1,3 @@
+- The gold standard of backups.
+- You "commit" changes at regular intervals, this might be manually once a day or automatically one every 10 minutes
+- It stores every version of every change you ever made and lets you go back and forward through all those changes
