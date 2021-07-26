@@ -76,7 +76,15 @@ public:: true
 	- {{embed [[Athens Research]]}}
 	- {{embed [[Notion]]}}
 	- Octo md
+		- like obsidian but avialble via the browser.
+		- support syncing for free but doesn't have any of obsidian's amazing plugins so i can't really recommend it.
 	- zettlr #Doc #Offline #Citations #Free #Markup/Markdown #Files/Markdown
+		- geared towards research people and journalists with inbuilt bibliography and citation tools.
+		- Honestly, i haven't tried this enough in the domain it is made for (research and scientific papers) to properly comment.
+		- Obsidian has similar plugins for BibTeX referencing so i would be interested to compare the two.
+		-
+		-
+		-
 	- Mac only
 		- Bear and nota.md
 			- #Files/Markdown #Markup/Markdown #Free #Paid #Offline #Autosync
@@ -88,7 +96,10 @@ public:: true
 		- {{embed [[Emacs]]}}
 	- ### Excluded
 		- one note
+			- if you want to hand write on your notes. nothing in the rest of this list will work like one note. the multimedia king.
 		- evernote
+			- Never really tried it. Seemed like one-note but with worse drawing abilities.
+		- Neither of these support back-links or interlinked notes so they are excluded from this comparison.
 	- ### Combinations:
 	  id:: 95f5a1b8-9df5-4bd2-8672-d9f4ecb39a35
 		- Some of these tools can be combined to create wonderful synergies (Insert ugiho fusion card here)
@@ -96,6 +107,30 @@ public:: true
 			- Any two apps with this tag will work together in som capacity and at the very least  are able to view each others notes
 		- [[logseq]]+[[emacs]]
 			- Logseq supports [[Markup/Org-mode]] and so inter-op between the two is very easy.
+## Final Opinions:
+	- Overall:
+		- [[Logseq]] - Gets all the key parts right, and has extras on top.
+			- Pros
+				- It just gets so much right. Using plain markdown files so i can be confident about my notes being safe, backed up, and compatible with other tools
+				- Supports advanced features like [[spaced repetition]] and [[transclusion]]
+				- Allows me access from anywhere on any device via the web page
+				- I prefer the outlier style, i think it integrates much more naturally with concepts like interlinking and referencing.
+			- Cons:
+				- Setting up synchronization if you want fully offline access to your notes has to be done manually see [[Setup logseq]]
+	- Outliner
+		- [[Remnote]] - The [[notion]] of outliers that ❤️ [[spaced repetition]]
+			- If you want an outliner and you don't care about the data storage and interoperability related advantages of [[logseq]], but you do want the multi device access part, and don't know what [[git]] is:
+			  Just use remnote.
+			- Doesn't support some features without a paid plan(aliases and transclusion for one)
+	- Doc Style
+		- [[Obsidian]] - [[Logseq]] 's document based cousin with a plugin for anything.
+			- Obsidian's plugins really are its main feature, there are so many and its a constantly growling list that allows it to integrate with many things and add so many fetures.
+			- Has all the same syncronisation trouble as [[logseq]](you have to do it yourself) but you can pay a monthly subscription to have obsidian deal with it.
+			- All the same file storage and inter-op advantages of [[logseq]] as well
+		- [[Notion]] - No-nonsense no setup, no offline
+			- if you just want a super easy experince thats nice to collaborate with others in and supports syncing just use notion.
+			- Uses a proprietary database, has no offline support but it really is super easy, and you can still use links and back links
+			-
 ## Other important considerations
 	- ### Friction:
 		- Friction is not as applicable to university as certain other domains -you have to take notes no matter what- but I think it it's still relevant here.

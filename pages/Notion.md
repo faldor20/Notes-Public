@@ -1,3 +1,6 @@
 - #Online #Web #AutoSync #Markup/Markdown #Colab #Freemium (you can only have so much content, its a large limit but tables can run it out)
-- I think everyone know about notion, its the most famous of the bunch.
+- I think most people know about notion, its the most famous of the bunch. however here are some key features.
+	- Good support for tables, lots of extra features like inbuilt kanban, uses a nested page hierarchy for organizing notes.
 - Very good for collaboration. Probably the best out of all the listed apps. teams, real-time sync all that good stuff
+- Can be a little slow because it is all web based, sometimes moving blocks around be be pretty clunky
+- Everything is stored in a proprietary database and is only accessible when online

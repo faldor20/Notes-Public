@@ -1,2 +1,4 @@
 - Tags  #Offline #AutoSync (paid) #Markup/Markdown #Freemium (pay for sync)
 - Proprietary database format. Support markdown export
+- Very much aiming to be an exact free replica of [[Roam Research]]
+- still in early development, so not all features are complete

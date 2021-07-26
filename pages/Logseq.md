@@ -1,4 +1,3 @@
--
 - Tags #Outline #Offline #Online #Markup/Markdown #Markup/Org-mode #Files/Markdown #Web #Autosync (Only when accessing from the web) #Free #ComplexContent #[[spaced repetition]]
 - Logseq is to #Outline editors what obsidian is to #Doc editors.
 - Extremely easy to get setup. Just go to the website and click on try demo and open a folder on your computer to store your notes
